@@ -10,7 +10,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiz.fellipe.nun/)
 
 ![Lipw Fellipe GitHub stats](https://github-readme-stats.vercel.app/api?username=LipwFellipe&show_icons=true&theme=dracula)
-<img align="right" alt="gif" src="https://64.media.tumblr.com/6522302a49d6f66c0436dcaadf1b3c4a/9a88081958fed007-f5/s400x600/daaed97cbdcbf169c3629dd172c0950ef78d4520.gifv">
+<img align="right" alt="gif" src="https://i.redd.it/3u0hkzmg49r71.gif">
 
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" /> &nbsp;&nbsp;&nbsp;&nbsp;
