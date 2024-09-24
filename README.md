@@ -1,4 +1,4 @@
-### Olá, sou o Luiz Fellipe Nunes🐧
+# Olá, sou o Luiz Fellipe Nunes🐧
 <p align="left">Estudante de Sistemas de Informação na Faculdade na Uniube-Uberlandia. Atualmente estudo python e linguagens da web.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e estou na caminhada para o tão sonhado primeiro emprego.
   
